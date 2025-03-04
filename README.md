@@ -5,10 +5,10 @@ The project involves scraping, filtering, and processing data, extracting releva
 
 The structure of the repository reflects the full pipeline:
 
-1_Data_Preprocessing – Filtering, lemmatization, and dataset preparation
-2_Feature_Extraction – Extracting attributes from URLs and HTML content
-3_Model_Training – Training and evaluation of machine learning models
-4_Analysis – Initial data analysis and evaluation
+- 1_Data_Preprocessing – Filtering, lemmatization, and dataset preparation
+- 2_Feature_Extraction – Extracting attributes from URLs and HTML content
+- 3_Model_Training – Training and evaluation of machine learning models
+- 4_Analysis – Initial data analysis and evaluation
 
 For a detailed explanation of the methodology and results, you can find my full thesis in the Central Registry of Theses and Dissertations (CRZP): [https://opac.crzp.sk/?fn=detailBiblioFormChildOVIDK&sid=C03CB0FBA6588971D03D21D1B6BF&seo=CRZP-detail-kniha].
 
