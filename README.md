@@ -1,4 +1,5 @@
 Title: Webpage Classification Using Machine Learning
+
 This repository contains code and datasets used in my bachelor thesis, which focuses on data preprocessing, feature extraction, and machine learning model training for text classification tasks. 
 The project involves scraping, filtering, and processing data, extracting relevant attributes, and training deep learning models such as CNN and LSTM, as well as classical approaches like SVM with Bayesian optimization.
 
